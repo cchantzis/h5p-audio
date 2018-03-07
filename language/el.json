@@ -1,99 +1,99 @@
 {
   "semantics": [
     {
-      "label": "Source files"
+      "label": "Αρχεία προέλευσης"
     },
     {
-      "label": "Player mode",
-      "description": "Select the layout of the player.",
+      "label": "Μορφή προγράμματος αναπαραγωγής",
+      "description": "Επιλέξτε την εμφάνιση του προγράμματος αναπαραγωγής.",
       "options": [
         {
-          "label": "Minimalistic"
+          "label": "Απλή"
         },
         {
-          "label": "Full"
+          "label": "Πλήρης"
         },
         {
-          "label": "Transparent"
+          "label": "Διάφανη"
         }
       ]
     },
     {
-      "label": "Fit to wrapper"
+      "label": "Προσαρμογή στην περιοχή ενσωμάτωσης"
     },
     {
-      "label": "Enable controls",
-      "description": "Controls allow the user to for instance pause the audio"
+      "label": "Ενεργοποίηση κουμπιών ελέγχου προγράμματος αναπαραγωγής",
+      "description": "Τα κουμπιά ελέγχου του προγράμματος αναπαραγωγής επιτρέπουν στον χρήστη π.χ. να κάνει παύση (pause) του ήχου"
     },
     {
-      "label": "Enable autoplay",
-      "description": "With autoplay the audio starts to play immediately. If autoplay is disabled the user presses a play button to start the audio."
+      "label": "Ενεργοποίηση αυτόματης αναπαραγωγής",
+      "description": "Με την αυτόματη αναπαραγωγή ο ήχος ξεκινά να παίζει αυτόματα. Εάν η αυτόματη αναπαραγωγή είναι απενεργοποιημένη, ο χρήστης χρειάζεται να πατήσει το κουμπί αναπαραγωγής (play) του ήχου για να ξεκινήσει ο ήχος να παίζει."
     },
     {
-      "label": "Copyright information",
+      "label": "Πληροφορίες σχετικά με τα δικαιώματα πνευματικής ιδιοκτησίας ",
       "fields": [
         {
-          "label": "Title",
+          "label": "Τίτλος",
           "placeholder": "Für Elise"
         },
         {
-          "label": "Author",
+          "label": "Δημιουργός",
           "placeholder": "Ludwig van Beethoven"
         },
         {
-          "label": "Source",
+          "label": "Πηγή",
           "placeholder": "http://en.wikipedia.org/wiki/F%C3%BCr_Elise"
         },
         {
-          "label": "License",
+          "label": "Άδεια",
           "options": [
             {
-              "label": "Undisclosed"
+              "label": "Άγνωστη - απροσδιόριστη "
             },
             {
-              "label": "Attribution"
+              "label": "Αναφορά Δημιουργού"
             },
             {
-              "label": "Attribution-ShareAlike"
+              "label": "Αναφορά Δημιουργού - Παρόμοια Διανομή"
             },
             {
-              "label": "Attribution-NoDerivs"
+              "label": "Αναφορά Δημιουργού - Όχι Παράγωγα Έργα"
             },
             {
-              "label": "Attribution-NonCommercial"
+              "label": "Αναφορά Δημιουργού - Μη Εμπορική Χρήση"
             },
             {
-              "label": "Attribution-NonCommercial-ShareAlike"
+              "label": "Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή"
             },
             {
-              "label": "Attribution-NonCommercial-NoDerivs"
+              "label": "Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Όχι Παράγωγα Έργα"
             },
             {
-              "label": "General Public License"
+              "label": "Γενική Άδεια Δημόσιας Χρήσης"
             },
             {
-              "label": "Public Domain"
+              "label": "Κοινό Κτήμα"
             },
             {
-              "label": "Public Domain Dedication and Licence"
+              "label": "Άδεια Δημόσιου Τομέα"
             },
             {
-              "label": "Public Domain Mark"
+              "label": "Σήμα Δημόσιου Τομέα"
             },
             {
-              "label": "Copyright"
+              "label": "Δικαιώματα Πνευματικής Ιδιοκτησίας"
             }
           ]
         }
       ]
     },
     {
-      "label": "Audio content name",
-      "default": "Audio"
+      "label": "Όνομα περιεχομένου ήχου",
+      "default": "Ήχος"
     },
     {
-      "label": "Audio not supported message",
-      "default": "Your browser does not support this audio"
+      "label": "Μήνυμα μη υποστηριζόμενου αρχείου ήχου",
+      "default": "Ο φυλλομετρητής δεν υποστηρίζει το συγκεκριμένο αρχείο ήχου"
     }
   ]
 }
